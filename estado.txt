@@ -1,2 +1,5 @@
 ON
    REPORTE = https://script.google.com/macros/s/AKfycbxR3aB4Ake2GpmYl8ACneMSZlvlDWuUqfb1qUrCCfmYLrejNDBsoC1kwP4qrcro_XgrPQ/exec
+
+VERSION MINIMA = 1.1
+DESCARGA  = https://drive.google.com/drive/folders/1QhLckoR8S5GY9N59HC5GJuTyZ2B6rlEc?usp=sharing
