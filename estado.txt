@@ -1,9 +1,9 @@
 ON
    REPORTE = https://script.google.com/macros/s/AKfycbxR3aB4Ake2GpmYl8ACneMSZlvlDWuUqfb1qUrCCfmYLrejNDBsoC1kwP4qrcro_XgrPQ/exec
 
-VERSION MINIMA = 1.1
+VERSION MINIMA = 1.3
 
 VERSION NUEVA = 1.3
 DESCARGA = https://drive.google.com/file/d/1M0RJxKGsjeXvn5lha1CAfQv8v_9YeE3W/view?usp=sharing
 
-HUELLA = 332c95d08824ee775f0332778111830842a1175185f0662251aca663a8abc840
+HUELLA = abb9105bac693efc7ccfeb863b5a0394eb5eb497a36de3192c2bb7de9e2cbc69
