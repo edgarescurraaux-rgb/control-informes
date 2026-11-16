@@ -1,9 +1,8 @@
 ON
    REPORTE = https://script.google.com/macros/s/AKfycbxR3aB4Ake2GpmYl8ACneMSZlvlDWuUqfb1qUrCCfmYLrejNDBsoC1kwP4qrcro_XgrPQ/exec
 
-VERSION MINIMA = 1.4
+VERSION MINIMA = 1.5
 
-VERSION NUEVA = 1.4
-DESCARGA = https://drive.google.com/file/d/1M0RJxKGsjeXvn5lha1CAfQv8v_9YeE3W/view?usp=sharing
-
-HUELLA = 6c2779a1db130adfbd154b26d4aec3037fee89df6a0e06637bf9a98682747141
+VERSION NUEVA = 1.5
+DESCARGA = https://github.com/edgarescurraaux-rgb/suite-versiones/releases/download/v1.5/SuiteExpress.exe
+HUELLA = 8342ac20b0f83cc9637babdf138101b96d69786f0285d086736f9e43d5262e9f
